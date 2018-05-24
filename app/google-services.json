@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "869483743744",
+    "firebase_url": "https://fluctuacion-darkzeroice.firebaseio.com",
+    "project_id": "fluctuacion-darkzeroice",
+    "storage_bucket": "fluctuacion-darkzeroice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869483743744:android:75cb0b9d93813a01",
+        "android_client_info": {
+          "package_name": "com.chacanasoft.jorge.fluctuacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869483743744-as6ub1udpl25pjrnkt8lcia7k57a3574.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chacanasoft.jorge.fluctuacion",
+            "certificate_hash": "5e800d23b7ee15b831c753e507306acfa5a5bbb7"
+          }
+        },
+        {
+          "client_id": "869483743744-5m0lh2f42kku5nad1ol85o49o671ucpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chacanasoft.jorge.fluctuacion",
+            "certificate_hash": "80a8fd41fd2c6ce4abda9e0a64a22eab9e0c8a44"
+          }
+        },
+        {
+          "client_id": "869483743744-11thosbfo24ufqftui8b2smetl9346t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMKu7iRbCgQX3gKknPiWVzPkJTiJ2oDW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869483743744-11thosbfo24ufqftui8b2smetl9346t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

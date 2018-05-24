@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ComprasActivity">
+
+    <Button
+        android:layout_alignParentStart="true"
+        android:id="@+id/btn_add_product"
+        android:text="Agregar producto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txt_list_title"
+        android:layout_below="@id/btn_add_product"
+        android:text="Mi lista de la compra"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_my_products"
+        android:layout_below="@id/txt_list_title"
+        android:layout_above="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v7.widget.RecyclerView>
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_alignParentBottom="true"
+        android:text="Guardar compra"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
