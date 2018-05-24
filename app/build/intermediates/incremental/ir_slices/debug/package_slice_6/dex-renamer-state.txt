@@ -1,0 +1,4 @@
+#Thu May 24 22:18:18 CEST 2018
+base.0=G\:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+path.0=classes.dex
+renamed.0=classes.dex
