@@ -80,24 +80,24 @@
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\475abdb92d3bf47556cdcd88813e2c29\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\475abdb92d3bf47556cdcd88813e2c29\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
@@ -108,12 +108,12 @@
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
-        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\f883569657134a84700e48a08e241096\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
@@ -148,12 +148,12 @@
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -260,12 +260,12 @@
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
-        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -340,12 +340,12 @@
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\anim\\tooltip_enter.xml"
     },
     {
-        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_menu_send.xml.flat",
-        "source": "G:\\ProyectosAndroid\\Fluctuacion\\app\\src\\main\\res\\drawable-v24\\ic_menu_send.xml"
-    },
-    {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_menu_send.xml.flat",
+        "source": "G:\\ProyectosAndroid\\Fluctuacion\\app\\src\\main\\res\\drawable-v24\\ic_menu_send.xml"
     },
     {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -360,12 +360,12 @@
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fullscreen.xml.flat",
-        "source": "G:\\ProyectosAndroid\\Fluctuacion\\app\\src\\main\\res\\layout\\activity_fullscreen.xml"
-    },
-    {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fullscreen.xml.flat",
+        "source": "G:\\ProyectosAndroid\\Fluctuacion\\app\\src\\main\\res\\layout\\activity_fullscreen.xml"
     },
     {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
@@ -424,12 +424,12 @@
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9e470db3226cfddb95e1aa7ee8fa9a0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\anim_tooltip_exit.xml.flat",
-        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\anim\\tooltip_exit.xml"
-    },
-    {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\anim_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\anim\\tooltip_exit.xml"
     },
     {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -524,16 +524,16 @@
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9e470db3226cfddb95e1aa7ee8fa9a0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\475abdb92d3bf47556cdcd88813e2c29\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
         "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7ff08784f64d8f8713814f6df233f677\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\475abdb92d3bf47556cdcd88813e2c29\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\JORGE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9e470db3226cfddb95e1aa7ee8fa9a0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "G:\\ProyectosAndroid\\Fluctuacion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
