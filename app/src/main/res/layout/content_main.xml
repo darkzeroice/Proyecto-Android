@@ -12,8 +12,8 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="254dp"
-        android:layout_height="98dp"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
         app:srcCompat="@drawable/logo_fluctuacion" />
 
     <Button
@@ -26,6 +26,7 @@
     <Button
         android:id="@+id/btnHistorial"
         android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
         android:layout_height="wrap_content"
         android:text="Historial de Compras" />
 
@@ -33,6 +34,7 @@
         android:id="@+id/btnProductos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
         android:text="Productos" />
 
 </LinearLayout>

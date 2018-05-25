@@ -57,11 +57,13 @@ class RegistrarProductosActivity : AppCompatActivity() {
     private fun fnCrearDatos() {
         val sNombre = txtProducto.getText().toString().trim({ it <= ' ' })
         val sDescripcion = txtDescripcion.getText().toString().trim({ it <= ' ' })
+        val sMarca = txtMarca.getText().toString().trim({ it <= ' ' })
 
         // Create a new user with a first and last name
         val productos = HashMap<String, Any>()
         productos.put("nombre", sNombre)
         productos.put("descripcion", sDescripcion)
+        productos.put("marca", sDescripcion)
 
 
         // Add a new document with a generated ID
